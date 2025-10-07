@@ -5,6 +5,9 @@ https://ibm.biz/BdewNg
 # Access Code
 techx2606-2b37
 
+# VM password
+IBMDem0s
+
 # Lab Material
 
 https://codefori.github.io/docs/workshop/db2i/
