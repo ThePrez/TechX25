@@ -18,5 +18,7 @@ https://github.com/sebjulliand/speaker/tree/main/An%20IBM%20i%20developer's%20jo
 
 # IBM i Login
 system: common76.iinthecloud.com
+
 userid: `TX_____`  <instructor will assign number>
+
 password: `liam`
